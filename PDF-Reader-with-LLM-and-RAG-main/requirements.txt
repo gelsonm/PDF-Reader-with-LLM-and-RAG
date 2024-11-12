@@ -1,4 +1,0 @@
-langchain
-streamlit
-transformers
-einops
